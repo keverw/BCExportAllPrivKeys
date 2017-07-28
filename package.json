@@ -1,0 +1,9 @@
+{
+    "name": "BCExportAllPrivKeys",
+    "description": "Export your Bitcoin Core private keys",
+    "version": "1",
+    "dependencies": {
+        "async": "^2.5.0",
+        "bitcoin-core": "^1.2.0"
+    }
+}
