@@ -109,4 +109,4 @@ Once done, I recommend disabling RPC by undoing what was added to `bitcoin.conf`
 
 ## If you found this script helpful
 
-If this script was any help to you, feel free to donate BTC to me `12ASN4Rb4hDnzbjaQqdmK8MzRQcCiTDVBi`. I'd really appreciate for helping.
+If this script was any help to you, feel free to donate BTC to me `12ASN4Rb4hDnzbjaQqdmK8MzRQcCiTDVBi`. I'd really appreciate that for helping.
